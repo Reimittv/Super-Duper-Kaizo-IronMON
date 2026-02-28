@@ -4,7 +4,7 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 ## Contents
 - [Ruleset Summary](#ruleset-aims)
 - [General Rules for All Games](#general-rules-for-all-games)
-- [Post-Recreuitment Doubles Rules](#post-recruitment-doubles-rules)
+- [Doubles Rules](#doubles-rules)
 - [Randomizer Settings String](#randomizer-settings-strings)
 
 
@@ -30,7 +30,7 @@ Once you have both of your Pokémon, a special NPC switches all remaining traine
 5. Early pivoting is not restricted to one Pokémon per area. You now have a game specific amount of pivots that can be used across all starter areas. For instance, in FRLG you may pivot a total of 4 times across the 4 locations. You still may not catch the same mon multiple times from a single patch of grass to reroll natures, IVS or abilities. 
 
 
-## Post-Recreuitment Doubles Rules
+## Doubles Rules
 
 1. Double Battles only! All trainer battles possible are doubles battles (2v2). Thus, if either of your two Pokémon faint it's game over and the run ends.
 2. Both of your Pokémon must be different. If evolving a Pokémon results in having two of the same, that's allowed and bypasses this rule.
