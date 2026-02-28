@@ -39,9 +39,10 @@ Double Battles yield enhanced experience, so there is new risk and reward to con
 3. If a move is shared between both your Pokémon, you cannot use that move at all for either of them.
 For example, if both Pokémon have Water Spout, then neither Pokémon can use the move Water Spout until one of them forgets it.
 4. The move Dark Void is banned for double battles.
-5. You may only use items on a Pokémon on that Pokémons turn.
-6. For example, I have a Blastoise and Charizard. I cannot use Blastoises action for the turn to use a potion on Charizard, each mon must give up their own turn if you wish to use an item on them.
-7. You may not use the move Transform on your own party members.
+5. You may not use the move Transform on your own party members.
+6. You may only use items on a Pokémon on that Pokémons turn.
+7. For example, I have a Blastoise and Charizard. I cannot use Blastoises action for the turn to use a potion on Charizard, each mon must give up their own turn if you wish to use an item on them.
+
 
 
 
