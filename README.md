@@ -22,7 +22,7 @@ Once both Pokémon are ready, a special NPC switches all remaining trainers to d
 
 ## General Rules for All Games
 
-0. All other [Super Kaizo rules](https://github.com/PyroMikeGit/SuperKaizoIronMON/blob/main/README.md) apply, unless changed below
+0. All other [Super Kaizo rules](https://github.com/PyroMikeGit/SuperKaizoIronMON/blob/main/README.md) apply. (unless overridden by a Super Duper Kaizo rule below)!
 1. A new NPC has been added outside the Safari zone, speaking to them will convert all unfought trainers to Double Battles and where able, will add an additional Pokémon to their team. [ROM patch](Coming Soon)
 2. You are no longer required to pivot at the Safari zone. Instead, you must 'recruit' a second Pokémon for you team. This follows the exact same rules and structure as Super Kaizo pivoting, including the ability to do early Koga and Blaine. You now commit to your finished doubles team by interacting with the aforementioned NPC. (There is no going back, so only switch to doubles when you are truly prepared!)  
 3. You may reenter each Dungeon one additional time, however, you must have enabled doubles mode before doing so.
