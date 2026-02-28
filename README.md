@@ -12,9 +12,9 @@ Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
  
 A new spin on Super Kaizo. As opposed to increasing difficulty, this serves as an alternative approach.
 
-Pre-Safari plays almost identically to Super Kaizo, the only differences are quality of life improvements to make pivoting more enjoyable.
+Pre-Safari remains virtually unchanged, the only differences are quality of life improvements to make pivoting more enjoyable.
 
-The big difference happens at the Safari Zone. You now engage in Safari 'Recruitment' where you keep your original Pokémon and find a new team member in the Safari Zone.
+The major shift happens at the Safari Zone. You now engage in Safari 'Recruitment' where you keep your original Pokémon and find a new team member in the Safari Zone.
 
 Once you have both of your Pokémon, a special NPC switches all remaining trainers to doubles battles and adds an extra Pokémon to their team where possible. From then on, you'll be playing Super Kaizo Doubles. 
 
