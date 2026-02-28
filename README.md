@@ -32,6 +32,7 @@ Once you have both of your Pokémon, a special NPC switches all remaining traine
 
 ## Doubles Rules
 
+0. These rules apply the instant you have utilised the Safari NPC and locked in your team. 
 1. Double Battles only! All trainer battles possible are doubles battles (2v2). Thus, if either of your two Pokémon faint it's game over and the run ends.
 2. Both of your Pokémon must be different. If evolving a Pokémon results in having two of the same, that's allowed and bypasses this rule.
 3. If a move is shared between both your Pokémon, you cannot use that move at all for either of them.
