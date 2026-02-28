@@ -1,46 +1,26 @@
-# Survival Revival IronMON Ruleset by [SaltyDolphin](https://www.twitch.tv/saltydolphin) & [Reimi](https://www.twitch.tv/reimi) 
+# Super Duper Kaizo IronMON Ruleset by [Reimi](https://www.twitch.tv/reimi) 
 Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
 
 ## Contents
-- [Ruleset Aims](#ruleset-aims)
+- [Ruleset Summary](#ruleset-aims)
 - [General Rules for All Games](#general-rules-for-all-games)
 - [Game Specific Rules](#game-specific-rules)
 - [Randomizer Settings Strings](#randomizer-settings-strings)
 
 
-## Ruleset Aims 
+## Ruleset Summary
  
-This ruleset aims to broaden the appeal of Survival, by addressing some common complaints both we and others had towards the original ruleset. 
+A new spin on the Super Kaizo Ironmon format. As opposed to being more difficult, this serves as an alternative approach.
 
-Furthermore, we have attempted to structure a challenge that encourages creativity, problem solving and planning. The hypest moments are usually ones where the runner makes bold and unique plays that others may not have seen or attempted, we want to see and create more of those special moments. 
+The early game plays nearly identically, the only major changes are related to pivoting. I am a big fan of pivoting and looking for the best mon in each seed, so I have made some quality of life changes to make the process more enjoyable.
 
-If you're interested in helping create an adaptation for Emerald, HGSS etc. then please message Reimi either in chat or on Discord. 
-
-
-
-## Changes as of 20/02/2025:
-
-**The Settings string has changed, so please update it if you have been playing prior to February 20th**
-
-Rule Change - Bigger and Badder has been changed from Sensible held items to consumable held items on boss trainers. Items like Brightpowder and Quick claw were far too strong late game and are antifun. 
-
-
-
-New Rule - Dimishing Return: Trade any 2 status specific heal items for 1 status specific heal item (no full heal just 2 burn heals for 1 antidote etc)
-
-Battle Items are now fully legal, even during the Pokémon League fights. 
-
-You may now buy 15 potions after beating Brock, increased from 10.
-
-Enhanced the victory road full clear prize to 3 move tutors. It's the riskiest full clear, you deserve a big reward!
-
-At this point the ruleset is considered finished. It is certainly very challenging, but it's been a ton of fun and is definitely beatable in the current state. 
+The big difference happens at the Safari Zone. As opposed to being forced to pivot your original Pokémon, you now engage in Safari 'Recruitment'. You keep your original Pokémon and then find a new member in the Safari Zone, once you have both of your teammates, a special NPC will switch the remaining trainers in the game to doubles fights and add an extra Pokémon to their team where possible. From then on, you'll be playing Super Kaizo Doubles until you lose or beat the game. 
 
 
 
 ## General Rules for All Games
 
-ALL PREVIOUS [Standard, Ultimate, and Kaizo rules](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1) apply (unless overridden by a Survival Revival rule below)!
+ALL PREVIOUS [Super Kaizo IronMon Rules]([https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1](https://github.com/PyroMikeGit/SuperKaizoIronMON)) apply (unless overridden by a Super Duper rule below)!
 
 **Super Kaizo Specific Rules do not apply! No Safari Pivot.**
 
