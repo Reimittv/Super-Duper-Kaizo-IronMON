@@ -41,7 +41,7 @@ For example, if both Pokémon have Water Spout, then neither Pokémon can use th
 4. The move Dark Void is banned for double battles.
 5. You may not use the move Transform on your own party members.
 6. You may only use items on a Pokémon on that Pokémons turn.
-For example, I have a Blastoise and Charizard. I cannot use Blastoises action for the turn to use a potion on Charizard, each mon must give up their own turn if you wish to use an item on them.
+For example, I have a Blastoise and Charizard. I cannot use Blastoises action to use a potion on Charizard, only on itself. 
 
 
 
