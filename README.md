@@ -19,7 +19,6 @@ The major shift happens at the Safari Zone. You now engage in Safari 'Recruitmen
 
 Once both Pokémon are ready, a special NPC switches all remaining trainers to doubles battles and adds an extra Pokémon to their team where possible. From then on, you'll be playing Super Kaizo Doubles. 
 
-Double Battles yield enhanced experience, so there is new risk and reward to consider with strategies like early Koga, Blaine and move relearner. 
 
 
 ## General Rules for All Games
