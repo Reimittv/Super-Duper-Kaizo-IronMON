@@ -14,9 +14,9 @@ A new spin on Super Kaizo. As opposed to increasing difficulty, this serves as a
 
 Pre-Safari remains virtually unchanged, the only differences are quality of life improvements to make pivoting more enjoyable.
 
-The major shift happens at the Safari Zone. You now engage in Safari 'Recruitment' where you keep your original Pokémon and find a new team member in the Safari Zone.
+The major shift happens at the Safari Zone. You now engage in Safari 'Recruitment' where you keep your original Pokémon and find a new team member.
 
-Once you have both of your Pokémon, a special NPC switches all remaining trainers to doubles battles and adds an extra Pokémon to their team where possible. From then on, you'll be playing Super Kaizo Doubles. 
+Once both Pokémon are ready, a special NPC switches all remaining trainers to doubles battles and adds an extra Pokémon to their team where possible. From then on, you'll be playing Super Kaizo Doubles. 
 
 
 
