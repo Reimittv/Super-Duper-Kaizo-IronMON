@@ -38,7 +38,6 @@ Once both Pokémon are ready, a special NPC switches all remaining trainers to d
 2. Both of your Pokémon must be different. If evolving a Pokémon results in having two of the same, that's allowed and bypasses this rule.
 3. If a move is shared between both your Pokémon, you cannot use that move at all for either of them.
 For example, if both Pokémon have Water Spout, then neither Pokémon can use the move Water Spout until one of them forgets it.
-4. The move Dark Void is banned for double battles.
 5. You may not use the move Transform on your own party members.
 6. You may only use items on a Pokémon on that Pokémons turn.
 For example, I have a Blastoise and Charizard. I cannot use Blastoises action to use a potion on Charizard, only on itself. 
