@@ -1,6 +1,6 @@
 # Super Duper Kaizo IronMON Ruleset by [Reimi](https://www.twitch.tv/reimi) 
-Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
-Special Thank you To Drumstix for developing the patch that makes all of this possible!
+1.Link to [IronMON Discord](https://discord.com/invite/jFPYsZAhjX)
+2.Special Thank you To Drumstix for developing the patch that makes all of this possible!
 
 ## Contents
 - [Ruleset Summary](#ruleset-aims)
